@@ -4,6 +4,7 @@ import helenka from '../../assets/about-us/helenka.jpg';
 import profile2 from '../../assets/about-us/profile2.png';
 import profile3 from '../../assets/about-us/profile3.png';
 import profile4 from '../../assets/about-us/profile4.png';
+import eliska from '../../assets/about-us/eliska.png';
 import './EmployeeCard.css';
 
 interface Employee {
@@ -17,7 +18,7 @@ interface Employee {
 }
 
 export const EmployeeCard = ({ employee }: { employee: Employee }) => {
-  const profilePics = [profile1, helenka, profile3, profile4, profile2];
+  const profilePics = [profile1, helenka, eliska, profile4, profile2];
 
   return (
     <Container>

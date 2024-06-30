@@ -1,12 +1,12 @@
 [
   {
     "id": 0,
-    "name": "Mgr. Jan Novák",
+    "name": "Mgr. Ivana Žůrková",
     "specialization": "Manuální terapie a sportovní fyzioterapie",
     "education": "Magisterské studium fyzioterapie na Univerzitě Karlově",
-    "freeTime": "Jan je vášnivý horolezec a miluje turistiku. Ve volném čase také rád hraje na kytaru a věnuje se fotografování přírody.",
-    "others": "Jan má více než 15 let zkušeností v oboru fyzioterapie a je odborníkem na manuální techniky a rehabilitaci sportovců.",
-    "alt": "Jan Novák profile picture"
+    "freeTime": "Ivča je vášnivá horolezkyně a miluje turistiku. Ve volném čase také ráda hraje na kytaru a věnuje se fotografování přírody.",
+    "others": "Ivča má více než 15 let zkušeností v oboru fyzioterapie a je odborníkem na manuální techniky a rehabilitaci sportovců.",
+    "alt": "Ivana Zurkova profile picture"
   },
   {
     "id": 1,
@@ -19,29 +19,20 @@
   },
   {
     "id": 2,
-    "name": "Mgr. Karel Dvořák",
+    "name": "Mgr. Vo Thi Phuong aka Eliška",
     "specialization": "Terapeutické cvičení a posilování",
     "education": "Magisterské studium fyzioterapie na Univerzitě Palackého v Olomouci",
-    "freeTime": "Karel je zapálený cyklista a často jezdí na dlouhé vyjížďky po celé České republice. Ve volném čase také rád vaří a experimentuje s novými recepty.",
-    "others": "Karel je odborníkem na sestavování individuálních cvičebních plánů zaměřených na zlepšení síly, flexibility a stability.",
-    "alt": "Karel Dvořák profile picture"
+    "freeTime": "Eliška je zapálená cyklistka a často jezdí na dlouhé vyjížďky po celé České republice. Ve volném čase také ráda vaří a experimentuje s novými recepty.",
+    "others": "Eliška je odborníkem na sestavování individuálních cvičebních plánů zaměřených na zlepšení síly, flexibility a stability.",
+    "alt": "Eliska profile picture"
   },
   {
     "id": 3,
-    "name": "Bc. Eva Novotná",
+    "name": "Mgr. Tereza Mužíková",
     "specialization": "Elektroterapie a ultrazvuk",
-    "education": "Bakalářské studium fyzioterapie na Západočeské univerzitě v Plzni",
-    "freeTime": "Eva miluje jógu a pravidelně navštěvuje různé workshopy. Kromě toho ráda cestuje a objevuje nové kultury a kuchyně.",
-    "others": "Eva využívá moderní technologie k úlevě od bolesti a urychlení hojení. Má bohaté zkušenosti s léčbou zánětlivých stavů a svalových spasmů.",
-    "alt": "Eva Novotná profile picture"
-  },
-  {
-    "id": 4,
-    "name": "Bc. Petra Svobodová",
-    "specialization": "Rehabilitace po operacích a úrazech",
-    "education": "Bakalářské studium fyzioterapie na Masarykově univerzitě",
-    "freeTime": "Petra je nadšená běžkyně a pravidelně se účastní maratonů. Ráda také čte detektivky a tráví čas se svou rodinou na chalupě.",
-    "others": "Petra se zaměřuje na komplexní rehabilitaci a pomáhá pacientům vrátit se k normálnímu životu po úrazech a chirurgických zákrocích.",
-    "alt": "Petra Svobodová profile picture"
+    "education": "Magisterské studium fyzioterapie na Západočeské univerzitě v Plzni",
+    "freeTime": "Terka miluje jógu a pravidelně navštěvuje různé workshopy. Kromě toho ráda cestuje a objevuje nové kultury a kuchyně.",
+    "others": "Terka využívá moderní technologie k úlevě od bolesti a urychlení hojení. Má bohaté zkušenosti s léčbou zánětlivých stavů a svalových spasmů.",
+    "alt": "Tereza Muzikova profile picture"
   }
 ]
